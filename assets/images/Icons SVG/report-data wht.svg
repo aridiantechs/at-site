@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27.089" height="34.477" viewBox="0 0 27.089 34.477">
+  <g id="report-data_wht" data-name="report-data wht" transform="translate(-5.625 -2.25)">
+    <path id="Path_1677" data-name="Path 1677" d="M30.251,5.944H26.557V4.713A2.463,2.463,0,0,0,24.095,2.25h-9.85a2.463,2.463,0,0,0-2.463,2.463V5.944H8.088A2.463,2.463,0,0,0,5.625,8.407V34.264a2.463,2.463,0,0,0,2.463,2.463H30.251a2.463,2.463,0,0,0,2.463-2.463V8.407A2.463,2.463,0,0,0,30.251,5.944ZM14.244,4.713h9.85V9.638h-9.85ZM30.251,34.264H8.088V8.407h3.694V12.1H26.557V8.407h3.694Z" fill="#fff"/>
+    <g id="chart-cluster-bar" transform="translate(11.43 15.557)">
+      <path id="Path_1678" data-name="Path 1678" d="M18.346,18.346H3.4A1.15,1.15,0,0,1,2.25,17.2V2.25H3.4V17.2H18.346Z" transform="translate(-2.25 -2.25)" fill="#fff"/>
+      <path id="Path_1679" data-name="Path 1679" d="M11.25,18H12.4v5.749H11.25Z" transform="translate(-6.651 -9.952)" fill="#fff"/>
+      <path id="Path_1680" data-name="Path 1680" d="M7.875,24.75h1.15v2.3H7.875Z" transform="translate(-5.001 -13.253)" fill="#fff"/>
+      <path id="Path_1681" data-name="Path 1681" d="M29.25,9H30.4V19.348H29.25Z" transform="translate(-15.453 -5.551)" fill="#fff"/>
+      <path id="Path_1682" data-name="Path 1682" d="M25.875,15.75h1.15v6.9h-1.15Z" transform="translate(-13.803 -8.852)" fill="#fff"/>
+      <path id="Path_1683" data-name="Path 1683" d="M18.025,21.548h-1.15V13.5h1.15Z" transform="translate(-9.402 -7.751)" fill="#fff"/>
+      <path id="Path_1684" data-name="Path 1684" d="M21.4,24.849H20.25v-4.6H21.4Z" transform="translate(-11.052 -11.052)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
